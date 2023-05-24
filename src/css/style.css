@@ -155,17 +155,7 @@ header {
   margin-right: 2rem;
 }
 
-.list--tick {
-  list-style-image: url(../images/tick.svg);
-  padding-left: 3rem;
-  color: var(--color-heading);
-}
-
-.list--tick .list__item {
-  padding-left: 0.5rem;
-}
-
-@media screen and(min-width:1024px) {
+@media screen and (min-width: 1024px) {
   .list--tick .list__item {
     padding-left: 0;
   }
