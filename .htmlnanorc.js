@@ -1,3 +1,1 @@
-module.exports = {
-  minifySvg: false,
-};
+export const minifySvg = false;
