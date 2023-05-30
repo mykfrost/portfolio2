@@ -1,1 +1,4 @@
-export const minifySvg = false;
+{
+  ("minifySvg");
+  false;
+}
